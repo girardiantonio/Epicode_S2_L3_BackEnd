@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Epicode_U4_W2_D3
+namespace ContoCorrrente
 {
     internal class Program
     {
